@@ -1,1 +1,1 @@
-# Wind-Farm---A-Benchmark-Model-For-MOR
+# Wind_Farm-A_Benchmark_Model_for_MOR
