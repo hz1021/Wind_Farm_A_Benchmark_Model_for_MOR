@@ -1,1 +1,3 @@
-# Wind_Farm_A_Benchmark_Model_for_MOR
+# Wind Farm: A Benchmark Model for Model Order Reduction
+## Linear Case
+## Nonlinear Case
