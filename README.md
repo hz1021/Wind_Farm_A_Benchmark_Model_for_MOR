@@ -4,7 +4,7 @@ This project provides the model of a benchmark wind farm model as is detailed in
 
 ## Prerequisites
 
-The entire wind farm model is modelled using Matlab/Simulink, and can be run on MATLAB R2024a or higher version.
+The entire wind farm model is modelled using Matlab/Simulink, and can be run on MATLAB R2024a or higher versions.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ The linear model is represented in the state-space form and the system matrices 
 
 ### Nonlinear Model
 
-The nonlinear model is built up using Simulink, see `wnd1000_BUS_Original.slx`, and the parameter values used in the Simulink model are given by `parameters_windFarm2.m`.
+The nonlinear model is built up using Simulink, see `Non_WindFarm.slx`, and the parameter values used in the Simulink model are given by `Non_ParameterInitialize.m`.
 
 ## Running the tests
 
