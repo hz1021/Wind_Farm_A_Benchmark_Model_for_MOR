@@ -81,14 +81,13 @@ Lin_WindFarm
 Lin_Plots
 ```
 
-It is expected to obtain the figure which is the same as that in the conference paper. It is **way simpler** than the nonlinear case!
+It is expected to obtain the figure which is the same as that in the conference paper, which is **way simpler** than the nonlinear case!
 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hanqing Zhang** and **Zilong Gong** - [MAC-X Lab](https://giordanoscarciotti.com/mac-x-lab/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
