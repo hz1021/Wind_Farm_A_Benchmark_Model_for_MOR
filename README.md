@@ -91,7 +91,7 @@ It is expected to obtain the figure which is the same as that in the conference 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hz1021/Wind_Farm_A_Benchmark_Model_for_MOR/blob/main/LICENSE) file for details
 
 ## Acknowledgments
 
