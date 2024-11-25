@@ -98,4 +98,8 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 The authors would like to thank [Dr. Giordano Scarciotti](https://profiles.imperial.ac.uk/g.scarciotti) and [Dr. Adrià Junyent-Ferré](https://profiles.imperial.ac.uk/adria.junyent-ferre) for their dedicated help with building up and reducing the benchmark wind farm model given in this project.
 
 
+## Appendix: Table of The Model Parameters
+
+In this last section, we give the table of the model parameters which are mentioned in the conference for complementary needs.
+
 
