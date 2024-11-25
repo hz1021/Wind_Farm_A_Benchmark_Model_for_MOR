@@ -91,13 +91,11 @@ It is expected to obtain the figure which is the same as that in the conference 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hz1021/Wind_Farm_A_Benchmark_Model_for_MOR/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see `LICENSE` file for details.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+The authors would like to thank [Dr. Giordano Scarciotti](https://profiles.imperial.ac.uk/g.scarciotti) and [Dr. Adrià Junyent-Ferré](https://profiles.imperial.ac.uk/adria.junyent-ferre) for their dedicated help with building up and reducing the benchmark wind farm model given in this project.
 
 
 
