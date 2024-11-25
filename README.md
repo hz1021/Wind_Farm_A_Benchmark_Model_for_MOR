@@ -102,7 +102,7 @@ The authors would like to thank [Dr. Giordano Scarciotti](https://profiles.imper
 
 In this last section, we give the table of the model parameters which are mentioned in the conference for complementary needs.
 
-![image](https://github.com/user-attachments/assets/bfd06a5e-5df6-4ee2-9668-16d6a7ea47cd)
+![image](https://github.com/user-attachments/assets/e2a868df-1e8e-4d38-82f6-3a861532e564)
 
 
 
