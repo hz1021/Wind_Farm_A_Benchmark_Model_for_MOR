@@ -72,31 +72,17 @@ Non_Plots
 
 This final step would take another ~5hrs as the original full model is simulated at the same time. To simulate the ROM only we can comment out the `FOM` module in `Non_ROMTest.slx`, which should take within **1sec**!
 
-### MOR for nonlinear systems
+### MOR for linear systems
 
-Explain what these tests test and why
+Herein, we show step by step how to use the two-sided moment matching method proposed in [Ionescu (2015)](https://ieeexplore.ieee.org/abstract/document/7336499) to realize model reduction on the linearized wind farm model. Run
 
 ```
-Give an example
+Lin_WindFarm
+Lin_Plots
 ```
 
-## Deployment
+It is expected to obtain the figure which is the same as that in the conference paper. It is **way simpler** than the nonlinear case!
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
