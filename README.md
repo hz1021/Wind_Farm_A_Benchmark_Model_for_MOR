@@ -1,6 +1,6 @@
 # Wind Farm: A Benchmark Model for Model Order Reduction
 
-This project provides the model of a benchmark wind farm model as is detailed in the MATHMOD 2025 conference paper "A Benchmark Model for Model Order Reduction: Large-scale Wind Farms" and the numerical examples therein.
+This project provides the model of a benchmark wind farm model as is detailed in the MATHMOD 2025 conference paper "[A Benchmark Model for Model Order Reduction: Large-scale Wind Farms](https://www.sciencedirect.com/science/article/pii/S2405896325002447)" and the numerical examples therein.
 
 
 ## Prerequisites
